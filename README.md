@@ -4,9 +4,7 @@
 EXP NO: 2
 
 
-DATE: 01.3.24
-      08.3.24
-      15.3.24
+DATE: 01.3.24/ 08.3.24/ 15.3.24
 
 
 
@@ -18,7 +16,7 @@ AIM:
 
 
 
-    To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
+     To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 
 
@@ -26,7 +24,7 @@ APPARATUS REQUIRED:
 
 
 
-Vivado software
+      Vivado software
 
 
 
