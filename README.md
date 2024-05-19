@@ -1,8 +1,4 @@
-
-
-
 EXP NO: 2
-
 
 DATE: 01.3.24/ 08.3.24/ 15.3.24
 
@@ -76,20 +72,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 
-
-VERILOG CODE
-
-
-
 ENCODER:
-
-
-
-LOGIC DIAGRAM:
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
 
 
 
@@ -105,6 +88,14 @@ endmodule
 ```
 
 
+LOGIC DIAGRAM:
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
+
+
+
 
 Output:
 
@@ -115,14 +106,6 @@ Output:
 
 
 DECODER:
-
-
-
-LOGIC DIAGRAM:
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
 
 
 
@@ -143,6 +126,13 @@ endmodule
 ```
 
 
+LOGIC DIAGRAM:
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
+
+
 
 Output:
 
@@ -153,14 +143,6 @@ Output:
 
 
 MULTIPLEXER:
-
-
-
-Logic Diagram:
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
 
 
 
@@ -175,6 +157,15 @@ endmodule
 
 
 
+Logic Diagram:
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
+
+
+
+
 Output:
 
 
@@ -184,14 +175,6 @@ Output:
 
 
 DEMULTIPLEXER:
-
-
-
-Logic Diagram:
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
 
 
 
@@ -213,6 +196,14 @@ endmodule
 
 
 
+Logic Diagram:
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
+
+
+
 Output:
 
 
@@ -222,14 +213,6 @@ Output:
 
 
 MAGNITUDE COMPARATOR:
-
-
-
-Logic Diagram:
-
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/b2fe7a05-6bf7-4dcb-8f5d-28abbf7ea8c2)
 
 
 
@@ -261,6 +244,14 @@ end
 end
 endmodule
 ```
+
+
+
+Logic Diagram:
+
+
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/b2fe7a05-6bf7-4dcb-8f5d-28abbf7ea8c2)
 
 
 
